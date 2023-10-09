@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-CoordinationApplication-0.1";
 const contentToCache = [
     "Build/CoordinationApplication.loader.js",
-    "Build/CoordinationApplication.framework.js.gz",
-    "Build/CoordinationApplication.data.gz",
-    "Build/CoordinationApplication.wasm.gz",
+    "Build/CoordinationApplication.framework.js",
+    "Build/CoordinationApplication.data",
+    "Build/CoordinationApplication.wasm",
     "TemplateData/style.css"
 
 ];
